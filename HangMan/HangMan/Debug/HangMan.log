@@ -1,0 +1,4 @@
+﻿  HangMan.cpp
+C:\Users\miher\source\repos\HangMan\HangMan\HangMan.cpp(13,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\miher\source\repos\HangMan\HangMan\HangMan.cpp(34,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  HangMan.vcxproj -> C:\Users\miher\source\repos\HangMan\Debug\HangMan.exe
